@@ -2,4 +2,4 @@
 
 This is my first git repository
 <br>
-Author : Rahul Singh Rajput (Shivam>)
+Author : Rahul Singh Rajput 
